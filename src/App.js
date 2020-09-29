@@ -13,7 +13,7 @@ function App() {
         on GitHub Pages. Visit these paths to see the subcomponent views.
       </header>
 
-      <BrowserRouter basename="/react-router-spa">
+      <BrowserRouter basename="/stage">
         <Link to="/">
           <h3>/</h3>
         </Link>
